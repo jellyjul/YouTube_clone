@@ -13,9 +13,7 @@ const SearchBar = () => {
     border:'1px solid #e3e3e3',
     pl: 3,
     boxShadow: 'none',
-    mr: {sm:5}
-
-  }}
+    mr: {sm:5} }}
     >
     <input
     className='search-bar'
